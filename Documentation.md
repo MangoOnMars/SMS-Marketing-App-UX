@@ -1,0 +1,2 @@
+# Documentation "Textro"
+Textro is an advanced SMS marketing platform designed to revolutionize your communication strategy. Equipped with intuitive automation and AI-driven tools, Textro enables you to effortlessly craft compelling marketing content, schedule campaigns, and send personalized messages to your audience. Whether you're aiming to boost engagement or drive conversions, Textro provides the tools you need to connect with your customers effectively and efficiently.]
