@@ -5,7 +5,7 @@ Textro is an advanced SMS marketing platform designed to revolutionize your comm
 | --------------------- | --------- |
 | Problem Statement Definition | Done |
 | Competitor Analysis | Initiated |  
-| Data Gathering  / Content Audit | N.A. |
+| Data Gathering  / Content Audit | --- |
 | Content Audit | N.A. | 
 | User Persona | N.A. | 
 | User Stories | N.A. | 
@@ -34,23 +34,24 @@ The ultimate goal is to empower users to maximize the impact of their SMS market
 To effectively address the complexities of SMS marketing, it's crucial to understand the current landscape of available tools and platforms. This competitor analysis will examine key players in the SMS marketing space, identifying their strengths and weaknesses to inform the design of a more intuitive and efficient solution.
 
 While performing this Competitor Analysis, we will be looking to gain a better understanding at the following points:
-1. Feature Set
-  1. User Interface Elements
-  2. Innovative Features
-  3. Integration Capabilities
-2. User Experience
-  1. Customer Review / Feedback
-  2. Customer Support Resources
-  3. Performance & Reliability
-  4. User Onboarding
-  5. Customization Options
-  6. Customer Retention
-3. Multi-Device Support / Eco-System
-4. Analytics and Reporting
-5. Market Share
-6. Pricing Models - Trial / Fremium
-7. Scalabilitiy
+- Feature Set
+  - User Interface Elements
+  - Innovative Features
+  - Integration Capabilities
+- User Experience
+  - Customer Review / Feedback
+  - Customer Support Resources
+  - Performance & Reliability
+  - User Onboarding
+  - Customization Options
+  - Customer Retention
+- Multi-Device Support / Eco-System
+- Analytics and Reporting
+- Market Share
+- Pricing Models - Trial / Fremium
+- Scalabilitiy
 
 Futher Details: Competitor Analysis.md
 
-## 3. 
+## 3. Data Gathering / Content Audit
+
